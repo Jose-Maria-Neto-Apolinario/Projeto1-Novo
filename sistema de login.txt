@@ -1,4 +1,4 @@
 digite seu nome
 digite sua senha
 digite sua idade
-digite sua altura
+digite sua altura 
